@@ -11,6 +11,7 @@ Idées :
   item qui donne un double saut
   quand t'es dans un bloc il attends que tu sortes avant d'apparaître
   comment finir les niveaux ??? --> cutscene ?
+  musiqueeeeees
 
   mondes ?
     briques
