@@ -8,3 +8,6 @@ Idées :
   niveau extra ou les blocs changent avec la musique
   PNJs ?
   item qui fait pas changer les blocs au prochain saut
+
+  mondes ?
+    briques
